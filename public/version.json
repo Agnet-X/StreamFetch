@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
-  "min_supported_version": "1.0.0",
+  "version": "1.0.1",
+  "min_supported_version": "1.0.1",
   "url": "https://github.com/Agnet-X/StreamFetch/releases/latest/download/StreamFetch.exe",
-  "sha256": "3eadcd5613c737196170aba5b99f244f7bdc66a2e1458e29d0d94f9c1d4dc02b",
+  "download_url": "https://github.com/Agnet-X/StreamFetch/releases/latest/download/StreamFetch.exe",
+  "sha256": "94eea6ef0be653bda8c2fb601d265145b5766d41110af49b96537c31f953bf87",
   "changelog": "الإصدار الأول من StreamFetch",
   "force_update": false
 }
