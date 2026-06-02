@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "min_supported_version": "1.0.1",
   "url": "https://github.com/Agnet-X/StreamFetch/releases/latest/download/StreamFetch.exe",
   "download_url": "https://github.com/Agnet-X/StreamFetch/releases/latest/download/StreamFetch.exe",
-  "sha256": "94eea6ef0be653bda8c2fb601d265145b5766d41110af49b96537c31f953bf87",
-  "changelog": "الإصدار الأول من StreamFetch",
+  "sha256": "b7841fb53578c1d7d265e6456de6f46b11b0b848638a361f3471abe5debc1139",
+  "changelog": "إضافة Browser Impersonation عبر curl-cffi وإصلاح خطأ HTTP 410",
   "force_update": false
 }
