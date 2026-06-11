@@ -10,21 +10,21 @@
   "patches": [
     {
       "from_version": "1.0.3",
-      "from_sha256": "716a6a2dedeaeb308e0ea74a6906e45f6126ca2a0ecae10c6f45645500c6455f",
+      "from_sha256": "b7841fb53578c1d7d265e6456de6f46b11b0b848638a361f3471abe5debc1139",
       "patch_url": "https://github.com/Agnet-X/StreamFetch/releases/download/v1.0.4.1/patch_1.0.3_to_1.0.4.1.bspatch",
-      "patch_sha256": "93f52d03ad421f202530c12758181751d7698a657047ed497928cbb514bb6c2a",
-      "patch_size": 442349,
+      "patch_sha256": "dc72c587ff0ffa20c2427a7814107c516f64c9abdadb2fa766a1e6ee4bac48e0",
+      "patch_size": 9493653,
       "full_size": 58186123
     },
     {
       "from_version": "1.0.4",
-      "from_sha256": "420cf151b3a1484db5ba6d29ef7471b0a478f4e67f7262b682bd9d5c070a7859",
+      "from_sha256": "716a6a2dedeaeb308e0ea74a6906e45f6126ca2a0ecae10c6f45645500c6455f",
       "patch_url": "https://github.com/Agnet-X/StreamFetch/releases/download/v1.0.4.1/patch_1.0.4_to_1.0.4.1.bspatch",
-      "patch_sha256": "7da2fdf1c4738bab3e3a3239e3cb7fb0adda8e70da989cf23ea9b3488bbccd85",
-      "patch_size": 440912,
+      "patch_sha256": "93f52d03ad421f202530c12758181751d7698a657047ed497928cbb514bb6c2a",
+      "patch_size": 442349,
       "full_size": 58186123
     }
   ],
-  "published_at": "2026-06-10T23:54:06Z",
-  "signature": "21/81Zla727GNmct0g7UgKCGZcdJd8WT3NfClYtDQk9gykULePBq+lpuh2gGHM8hEKjMut4Jv6JkBdWchXATDw=="
+  "published_at": "2026-06-11T14:21:43Z",
+  "signature": "XXw+nTAS0+ySZQR8iR/y+QZ/A/aQ5VuIBm++PENw645X3rKnyNH591uCt/6D9wNdFweOpYFOo2wLp1/MghILCQ=="
 }
